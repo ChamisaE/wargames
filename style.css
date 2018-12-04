@@ -1,0 +1,21 @@
+img.top-logo {
+	width: 75px;
+	height: auto;
+	display: inline-block;
+	margin: 1rem 1rem 1rem 0;
+}
+
+a.navbar-brand {
+	float: none;
+}
+
+nav.navbar.navbar-default {
+	background-color: transparent;
+	border-color: transparent;
+	border-radius: 0px;
+	border-bottom-color: #0000;
+}
+
+div.collapse > .navbar-nav {
+	padding: .5rem 0;
+}
